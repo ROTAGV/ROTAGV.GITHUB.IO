@@ -1,0 +1,16 @@
+{
+  "versionCode": 134,
+  "versionName": "0.1.26",
+  "apkUrl": "https://github.com/ROTAGV/ROTAGV.GITHUB.IO/releases/download/rota-gv-v0.1.26-car.134/rota-gv-0.1.26-code134-car.apk",
+  "sha256": "5fbabef2788831e5e6a7b30605ff9cefb28a9d8b6fc5b92f4ec54d4accb195e4",
+  "apkSize": 40757672,
+  "minSdk": 26,
+  "channel": "test",
+  "releaseNotes": [
+    "Menor reconstrução de camadas de rota no mapa nativo.",
+    "Renderização do mapa limitada a 30 fps.",
+    "Recuperação HTTPS e intervalo entre tentativas automáticas de rota.",
+    "Canal público de download e atualizações.",
+    "Revisão de testes: validação física final na multimídia pendente."
+  ]
+}
