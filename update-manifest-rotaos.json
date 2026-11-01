@@ -1,0 +1,14 @@
+{
+  "versionCode": 16,
+  "versionName": "0.8.2",
+  "apkUrl": "https://github.com/marlondouglas/luna-neural-space/releases/download/rotaos-v0.8.2/rotaos-0.8.2.apk",
+  "sha256": "fb531e268d283ff9f15d44d1a60da7e9acb0e06d078d199dd33a47519e74a9cf",
+  "apkSize": 171475757,
+  "minSdk": 26,
+  "channel": "stable",
+  "releaseNotes": [
+    "15 launchers nativos em tela cheia",
+    "Aura de voz no lugar do orbe",
+    "Correções de mídia, ativação por voz e instalador"
+  ]
+}
