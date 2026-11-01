@@ -1,13 +1,13 @@
 {
-  "versionCode": 165,
-  "versionName": "0.1.65",
-  "apkUrl": "https://github.com/marlondouglas/luna-neural-space/releases/download/v0.1.65/rota-gv-0.1.65-code165-car.apk",
-  "sha256": "179d0bcaaef1485e5f4cd47875885a3707987e07e547107eadab5eda7aca12fb",
-  "apkSize": 339464829,
+  "versionCode": 166,
+  "versionName": "0.1.66",
+  "apkUrl": "https://github.com/marlondouglas/luna-neural-space/releases/download/v0.1.66/rota-gv-0.1.66-code166-car.apk",
+  "sha256": "1fb20accfdb5d4e93593d9dbee56d0285d6b997f104b9085bb706a19eae47fd4",
+  "apkSize": 339464845,
   "minSdk": 26,
   "channel": "stable",
   "releaseNotes": [
-    "Teste de atualização pelo app (versão 164 + número 165)."
+    "Instalador funciona na central ECARX."
   ],
   "validationStatus": "physical-validation-pending"
 }
