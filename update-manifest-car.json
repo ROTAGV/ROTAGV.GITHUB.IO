@@ -1,15 +1,16 @@
 {
-  "versionCode": 172,
-  "versionName": "0.1.72",
-  "apkUrl": "https://media.githubusercontent.com/media/marlondouglas/luna-neural-space/49d232e0ec54f4c7e8bcd57d8a831e737844f063/release-assets/v0.1.72/rota-gv-0.1.72-car.apk",
-  "sha256": "074316bdff54502aaed19eac727a1b4d192824d4cffc533d4bb0351d65a1fb5a",
-  "apkSize": 335257469,
+  "versionCode": 173,
+  "versionName": "0.1.73",
+  "apkUrl": "https://media.githubusercontent.com/media/marlondouglas/luna-neural-space/12c3d5bd83433f347dea0478f3809a5bd7114d39/release-assets/v0.1.73/rota-gv-0.1.73-car.apk",
+  "sha256": "aa13c4561f8c96ef8829e7daf43067b05f6bd8184ff93f0b906869f5812ad29f",
+  "apkSize": 303077647,
   "minSdk": 26,
   "channel": "stable",
   "releaseNotes": [
-    "Correções de navegação, exibição do mapa e endereços.",
-    "APK de multimídia CAR assinado com o certificado original do ROTA GV.",
-    "Instalação na central Geely EX2 sujeita às restrições do instalador da multimídia."
+    "Projeção visual de ganhos por hora, sem lançamento financeiro automático.",
+    "Ganhos reais registrados por plataforma substituem a projeção do período sem duplicação.",
+    "Botão de privacidade para ocultar os valores financeiros do painel.",
+    "Correções de navegação e mapa; APK assinado com o certificado original do ROTA GV."
   ],
   "validationStatus": "physical-validation-pending"
 }
