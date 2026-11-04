@@ -1,13 +1,15 @@
 {
-  "versionCode": 166,
-  "versionName": "0.1.66",
-  "apkUrl": "https://github.com/marlondouglas/luna-neural-space/releases/download/v0.1.66/rota-gv-0.1.66-code166-car.apk",
-  "sha256": "1fb20accfdb5d4e93593d9dbee56d0285d6b997f104b9085bb706a19eae47fd4",
-  "apkSize": 339464845,
+  "versionCode": 172,
+  "versionName": "0.1.72",
+  "apkUrl": "https://media.githubusercontent.com/media/marlondouglas/luna-neural-space/49d232e0ec54f4c7e8bcd57d8a831e737844f063/release-assets/v0.1.72/rota-gv-0.1.72-car.apk",
+  "sha256": "074316bdff54502aaed19eac727a1b4d192824d4cffc533d4bb0351d65a1fb5a",
+  "apkSize": 335257469,
   "minSdk": 26,
   "channel": "stable",
   "releaseNotes": [
-    "Instalador funciona na central ECARX."
+    "Correções de navegação, exibição do mapa e endereços.",
+    "APK de multimídia CAR assinado com o certificado original do ROTA GV.",
+    "Instalação na central Geely EX2 sujeita às restrições do instalador da multimídia."
   ],
   "validationStatus": "physical-validation-pending"
 }
